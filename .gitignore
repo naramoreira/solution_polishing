@@ -1,0 +1,16 @@
+# Misc
+.DS_Store
+
+# VSCode
+.vscode/*
+!extensions.json
+!settings.json
+
+# caches
+.mypy_cache
+.pytest_cache
+**__pycache__**
+
+# Data
+data/**
+**/.env
